@@ -1,0 +1,10 @@
+{
+    "dev": {
+      "host": "localhost",
+      "user": "root",
+      "password" : "password",
+      "database": "node_db_migrate",
+      "driver": "mysql",
+      "multipleStatements": true
+    }
+  }
